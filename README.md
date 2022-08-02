@@ -1,2 +1,2 @@
 # ScrapeFootball
-Web Scraping on football data using Python Selenium and ChromeDriver
+Using Python, BeautifulSoup, and Jupyter Notebook at Kaggle to scrape NFL stats and plot radar charts of quarterbacks
